@@ -1,0 +1,3 @@
+Home page cover photo name: wed.jpg
+logo left top: logo.png
+groom1: a5.jpg
